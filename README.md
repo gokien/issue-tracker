@@ -6,14 +6,18 @@ a bug by pressing the **Issues** button on the menu above and click **New Issue*
 
 Please state your problem clearly using the following template (not required):
 
-> - Steps to reproduce:
->     First do this, and then do that.
-> - What happened:
->     Nothing...
-> - What you think the correct behavior should be:
+> - **Steps to reproduce:**
+>      1. First do this
+>      2. and then do that.
+> - **What happened:**<br/>
+>   Nothing...
+> - **What you think the correct behavior should be:**<br/>
 >     A dialog should appear...
-> - What version of the product are you using? On what operating system?
-> - Please provide any additional information below.
+> - **What version of the product are you using? On what operating system?**<br/>
+>     From git (2013-02-04).
+> - **Please provide any additional information below.**
+>
+> Lorem ipsum dolo sit amet...
 
 ## Wiki
 
