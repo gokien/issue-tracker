@@ -2,7 +2,7 @@
 
 This repository is our official issue tracker.
 If you have any question or difficulty using our system, please file
-a bug by pressing the **Issues** button on the menu above and click **New Issue** or go to this link: <https://github.com/gokienos/issues/issues/new>.
+a bug by pressing the **Issues** button on the menu above and click **New Issue** or go to this link: <https://github.com/gokienos/gokien-project/issues/new>.
 
 Please state your problem clearly using the following template (not required):
 
@@ -22,5 +22,5 @@ Please state your problem clearly using the following template (not required):
 ## Wiki
 
 You can get a glance at the project's structure and progress by exploring our
-public wiki here: <http://wiki.gokien.org>.
+public wiki here: <https://github.com/gokienos/gokien-project/wiki>.
 
