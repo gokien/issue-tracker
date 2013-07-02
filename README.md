@@ -1,10 +1,9 @@
 ## Issue tracker
 
 This repository is our official issue tracker.
-If you have any question or difficulty using our system, please file
-a bug by pressing the **Issues** button on the menu above and click **New Issue** or go to this link: <https://github.com/gokienos/gokien-project/issues/new>.
+If you have any question or difficulty using our system, please create an issue by pressing the **Issues** button on the sidebar on the right and click **New Issue** or go to this link: <https://github.com/gokienos/gokien-project/issues/new>.
 
-Please state your problem clearly using the following template (not required):
+Please search if your problem has been reported before creating an issue by using the search area on top of this page (make sure it shows **This repository**). State your problem clearly using the following template (not required):
 
 > - **Steps to reproduce:**
 >      1. First do this
