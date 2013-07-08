@@ -1,4 +1,4 @@
--- Scroll down to see English version --
+**Scroll down for English**
 
 
 ## Trang thông báo các vấn đề
