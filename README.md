@@ -1,4 +1,4 @@
-**Scroll down for English**
+**Scroll down for [English](#issue-tracker)**
 
 
 ## Trang thông báo các vấn đề
