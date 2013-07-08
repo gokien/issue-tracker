@@ -1,3 +1,34 @@
+-- Scroll down to see English version --
+
+
+## Trang thông báo các vấn đề
+
+Đây là trang chính thức lưu trữ các vấn đề cần giải quyết.
+Nếu bạn có bất kỳ câu hỏi hoặc khó khăn nào trong việc sử dụng hệ thống của chúng tôi, thì xin hãy tạo một câu hỏi bằng cách nhấn vào nút **Issues** nằm trên thanh lề bên phải và nhấn **New Issue** hoặc có thể truy cập vào đường dẫn: <https://github.com/gokien/issue-tracker/issues/new>.
+
+Xin hãy tìm kiếm trước khi bạn tạo một câu hỏi vì có thể vấn đề của bạn đã được hỏi rồi, bạn hãy gõ vào ô tìm kiếm nằm ở đầu trang này (đảm bảo rằng nó đang hiển thị **This repository**). Câu hỏi của bạn cần phải rõ ràng, bạn có thể dựa vào mẫu dưới đây để đặt câu hỏi (không bắt buộc):
+
+> - **Các bước thực hiện dẫn đến gặp vấn đề của bạn:**
+>      1. Đầu tiên làm việc này
+>      2. và tiếp theo làm việc này.
+> - **Chuyện gì đã xảy ra:**<br/>
+>   Không có gì...
+> - **Đáng nhẽ ra phải xảy ra sự kiện gì:**<br/>
+>     Một hộp thoại sẽ xuất hiện...
+> - **Bạn đang sử dụng phiên bản bao nhiêu? Trên hệ điều hành nào?**<br/>
+>     Tải từ git ngày 04-02-2013.
+> - **Xin hãy cung cấp thêm bất kỳ thông tin nào dưới đây.**
+>
+> Những thông tin bổ sung khác...
+
+## Wiki
+
+Bạn có thể xem qua cấu trúc và tiến độ của dự án trên trang wiki của chúng tôi: <http://wiki.gokien.org>.
+
+
+-----------------------------------------------------------------
+
+
 ## Issue tracker
 
 This repository is our official issue tracker.
